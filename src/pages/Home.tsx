@@ -102,7 +102,7 @@ export default function Home() {
             className="whitespace-nowrap px-[18px] py-[10px] bg-white text-[#0B0B0B] font-cond text-sm font-bold tracking-[-0.02em] uppercase rounded-full hover:bg-[#CECECE] transition-colors duration-200">
             HOW IT WORKS →
           </Link>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/justbiar/apoptosis-protocol" target="_blank" rel="noopener noreferrer"
             className="whitespace-nowrap px-[18px] py-[10px] border border-white/60 text-white font-cond text-sm font-bold tracking-[-0.02em] uppercase rounded-full hover:bg-white hover:text-[#0B0B0B] transition-all duration-200">
             VIEW CODE ↗
           </a>

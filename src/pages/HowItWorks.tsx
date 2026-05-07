@@ -349,7 +349,7 @@ export default function HowItWorks() {
           <p className="text-[#858585] mb-8 max-w-md mx-auto text-sm leading-[1.6]">Read the full Anchor program source, run the test suite, or check the bounty submission on Superteam.</p>
           <div className="flex flex-wrap gap-3 justify-center">
             <Link to="/" className="px-5 py-2.5 border border-white/40 text-white font-cond text-sm font-bold uppercase rounded-full hover:bg-white hover:text-[#0B0B0B] transition-all">← HOME</Link>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 bg-white text-[#0B0B0B] font-cond text-sm font-bold uppercase rounded-full hover:bg-[#CECECE] transition-colors">GITHUB REPO ↗</a>
+            <a href="https://github.com/justbiar/apoptosis-protocol" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 bg-white text-[#0B0B0B] font-cond text-sm font-bold uppercase rounded-full hover:bg-[#CECECE] transition-colors">GITHUB REPO ↗</a>
           </div>
         </m.div>
       </section>

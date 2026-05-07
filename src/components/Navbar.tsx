@@ -74,7 +74,7 @@ export default function Navbar() {
           <div className="h-6 w-[1px] bg-[#272A2A]" />
 
           <a
-            href="https://github.com"
+            href="https://github.com/justbiar/apoptosis-protocol"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative flex items-center gap-2 font-mono text-sm font-semibold tracking-wide px-6 py-2.5 rounded-full bg-white/5 border border-white/10 text-white hover:bg-white hover:text-[#0B0B0B] transition-all duration-300"
@@ -128,7 +128,7 @@ export default function Navbar() {
           })}
           <div className="h-[1px] w-full bg-[#272A2A]" />
           <a
-            href="https://github.com"
+            href="https://github.com/justbiar/apoptosis-protocol"
             target="_blank"
             rel="noopener noreferrer"
             className="font-mono text-sm uppercase tracking-widest text-[#CC6437] hover:text-white transition-colors flex items-center gap-2"
